@@ -55,6 +55,7 @@ export function NextImage({
         onLoadingComplete={handleLoad}
         layout='responsive'
         {...rest}
+        unoptimized
       />
       {children}
     </figure>
