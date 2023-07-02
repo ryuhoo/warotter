@@ -33,7 +33,7 @@ export function CustomIcon({
 function TwitterIcon({ className }: IconProps): JSX.Element {
   return (
     <svg className={cn('fill-current', className)} version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' x='0px' y='0px'
-    width='100%' viewBox='0 0 480 480' enable-background='new 0 0 480 480'>
+    width='100%' viewBox='0 0 480 480'>
       <g>
 <path fill='#FEFEFC' opacity='1.000000' stroke='none' 
 	d='
